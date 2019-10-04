@@ -1,2 +1,2 @@
-# hello-world
-This is my first to use the github
+# the code of learning openCV3
+a function about image processing
